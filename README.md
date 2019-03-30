@@ -11,7 +11,7 @@ The following **required** functionality is completed:
 - [X] User can sign up to create a new account using Parse authentication.
 - [X] User can log in and log out of his or her account.
 - [X] The current signed in user is persisted across app restarts.
-- [ ] User can take a photo, add a caption, and post it to "Instagram".
+- [X] User can take a photo, add a caption, and post it to "Instagram".
 
 The following **optional** features are implemented:
 
@@ -28,6 +28,8 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+<img src='walkthrough2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
